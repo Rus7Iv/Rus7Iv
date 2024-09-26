@@ -4,7 +4,7 @@ I'm a frontend developer with experience in creating beautiful and responsive we
 
 ## 🔧 Technologies and Tools
 <div style="display: flex; justify-content: space-between; gap: 20px">
-    <ul>
+    <ul style="width: 40%">
         <li><strong>Programming Languages:</strong>&nbsp<span>JavaScript, TypeScript, HTML, CSS</span></li>
         <li><strong>Frameworks and Libraries:</strong>&nbsp<span>React, Vue.js, Angular</span></li>
         <li><strong>Tools:</strong>&nbsp<span>Git, Vite, Babel, pnpm</span></li>
