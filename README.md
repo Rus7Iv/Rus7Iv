@@ -3,11 +3,15 @@
 I'm a frontend developer with experience in creating beautiful and responsive web applications. I'm passionate about modern technologies and strive to build intuitive user interfaces.
 
 ## 🔧 Technologies and Tools
-
-- **Programming Languages:** JavaScript, TypeScript, HTML, CSS
-- **Frameworks and Libraries:** React, Vue.js, Angular
-- **Tools:** Git, Vite, Babel, pnpm
-- **Design:** Figma, Bootstrap, Tailwind CSS, Styled Components
+<div style="display: flex; justify-content: space-between; gap: 20px">
+    <ul>
+        <li><strong>Programming Languages:</strong>&nbsp<span>JavaScript, TypeScript, HTML, CSS</span></li>
+        <li><strong>Frameworks and Libraries:</strong>&nbsp<span>React, Vue.js, Angular</span></li>
+        <li><strong>Tools:</strong>&nbsp<span>Git, Vite, Babel, pnpm</span></li>
+        <li><strong>Design:</strong>&nbsp<span>Figma, Bootstrap, Tailwind CSS, Styled Components</span></li>
+    </ul>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rus7Iv&layout=compact&theme=radical" alt="Most Used Languages">
+</div>
 
 ## 🌱 Currently Learning
 
@@ -19,9 +23,5 @@ I'm a frontend developer with experience in creating beautiful and responsive we
 - Email: rusivary@gmail.com
 - LinkedIn: https://www.linkedin.com/in/rus-ivanov
 - Telegram: https://t.me/RUSivanov
-
-## 📈 My GitHub Stats
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rus7Iv&layout=compact&theme=radical)
 
 Thanks for visiting my profile! 😊
