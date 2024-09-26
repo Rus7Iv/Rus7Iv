@@ -1,4 +1,4 @@
-# Hi there! I'm Ruslan 👋
+<h1 align="center"><b>Hi there! I'm Ruslan </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 I'm a frontend developer with experience in creating beautiful and responsive web applications. I'm passionate about modern technologies and strive to build intuitive user interfaces.
 
