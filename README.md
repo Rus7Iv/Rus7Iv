@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563eb&height=200&section=header&text=Ruslan%20Ivanov&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header" width="100%" style="max-width: none" />
+  <h1 align="center"><b>Hi there! I'm Ruslan </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=60A5FA&center=true&vCenter=true&width=520&lines=Frontend+Developer;UI+Engineer;Performance+%26+A11y+Focused" alt="typing animation"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=800&color=60A5FA&center=true&vCenter=true&width=620&lines=Crafting+clean+interfaces;Design+systems+and+component+libraries;Micro-interactions+with+purpose" alt="typing animation"/>
   </p>
   <p>
-    <a href="mailto:rusivary@gmail.com"><img src="https://img.shields.io/badge/Email-rusivary%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="mailto:rusivary@gmail.com"><img src="https://img.shields.io/badge/Email-rusivary%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
     <a href="https://www.linkedin.com/in/rus-ivanov"><img src="https://img.shields.io/badge/LinkedIn-rus--ivanov-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://t.me/RUSivanov"><img src="https://img.shields.io/badge/Telegram-@RUSivanov-229ed9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   </p>
@@ -12,42 +12,36 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2200&pause=800&color=93C5FD&center=true&vCenter=true&width=520&lines=Building+pixel-perfect+UIs;Crafting+fast+web+experiences;Obsessed+with+micro-interactions" alt="coding animation"/>
-</p>
+<div align="center">
+  <div style="width: 100%; max-width: 620px; margin: 0 auto; overflow: hidden; -webkit-mask-image: linear-gradient(to right, transparent, #000 12%, #000 88%, transparent); mask-image: linear-gradient(to right, transparent, #000 12%, #000 88%, transparent);">
+    <marquee behavior="scroll" direction="left" scrollamount="6" style="font-family: 'Fira Code', monospace; font-size: 14px; letter-spacing: 1px; text-transform: uppercase; color: #facc15;">
+        Building fast web experiences • Pixel-perfect UI with real-world constraints • Motion and interaction design for delight •
+    </marquee>
+  </div>
+</div>
 
 ## About
 
-I build crisp, fast, and accessible web experiences. I love clean UI architecture, micro-interactions, and shipping products that feel premium.
+I build crisp, modern web interfaces and care about performance, accessibility, and clean UI architecture. I like turning complex requirements into simple, elegant experiences.
 
-## Tech Stack
+## Stack
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=f7df1e" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178c6" alt="TypeScript">
-  <img src="https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=e34f26" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3&logoColor=1572b6" alt="CSS3">
-  <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61dafb" alt="React">
-  <img src="https://img.shields.io/badge/Vue-111827?style=flat-square&logo=vue.js&logoColor=42b883" alt="Vue">
-  <img src="https://img.shields.io/badge/Vite-111827?style=flat-square&logo=vite&logoColor=646cff" alt="Vite">
-  <img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=f05032" alt="Git">
-  <img src="https://img.shields.io/badge/pnpm-111827?style=flat-square&logo=pnpm&logoColor=f69220" alt="pnpm">
-  <img src="https://img.shields.io/badge/Figma-111827?style=flat-square&logo=figma&logoColor=f24e1e" alt="Figma">
-  <img src="https://img.shields.io/badge/Tailwind-111827?style=flat-square&logo=tailwindcss&logoColor=38bdf8" alt="Tailwind CSS">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,vue,angular,vite,git,figma,tailwind&perline=6" alt="tech icons">
 </p>
 
-## What I Do
+## What I Deliver
 
 - Design systems and scalable component libraries
 - Performance optimization and Lighthouse-driven improvements
-- Accessibility (a11y) and inclusive UX patterns
-- Motion and interaction design for delightful UIs
+- Accessibility-first UI and inclusive UX patterns
+- Motion systems and micro-interactions
 
-## Feature Strip
+## Signature
 
 <p>
   <img src="https://img.shields.io/badge/Pixel--Perfect%20UI-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Pixel Perfect">
-  <img src="https://img.shields.io/badge/Reusable%20Components-1e293b?style=for-the-badge&logo=storybook&logoColor=ff4785" alt="Reusable Components">
+  <img src="https://img.shields.io/badge/Reusable%20Components-111827?style=for-the-badge&logo=storybook&logoColor=ff4785" alt="Reusable Components">
   <img src="https://img.shields.io/badge/Speed%20Matters-0b1220?style=for-the-badge&logo=googlechrome&logoColor=4285f4" alt="Speed Matters">
 </p>
 
@@ -55,12 +49,6 @@ I build crisp, fast, and accessible web experiences. I love clean UI architectur
 
 Add 2-3 projects with a short description, stack, and link:
 
-- Project Name — one-line value proposition and outcome
-- Project Name — one-line value proposition and outcome
-- Project Name — one-line value proposition and outcome
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:111827&height=120&section=footer&animation=fadeIn" alt="footer" width="100%" style="max-width: none"/>
-</div>
+- Project Name - one-line value proposition and outcome
+- Project Name - one-line value proposition and outcome
+- Project Name - one-line value proposition and outcome
