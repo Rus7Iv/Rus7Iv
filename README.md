@@ -15,7 +15,8 @@ I'm a frontend developer with experience in creating beautiful and responsive we
       </ul>
     </td>
     <td style="vertical-align: top;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rus7Iv&layout=compact&theme=radical" alt="Most Used Languages">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rus7Iv&layout=compact&theme=radical
+      " alt="Most Used Languages">
     </td>
   </tr>
 </table>
